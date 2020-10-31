@@ -1,0 +1,11 @@
+.gridly {
+	position: relative;
+	width: 960px;
+	display: flex;
+	background-color: aliceblue;
+}
+div {
+	width: 140px;
+	height: 140px;
+	background: #000;
+}
